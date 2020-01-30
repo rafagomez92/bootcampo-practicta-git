@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px
+}
+
+h3 {
+    font-size: 28px
+}
+
+header {
+    background-color: gray;
+    text-align: center;
+}
+
+.skills {
+    background-color: greenyellow;
+}
+.columns {
+    display: flex;
+}
+
+.column {
+    margin: 5px;
+}
